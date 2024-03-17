@@ -1,6 +1,6 @@
 using System;
 
-class Program {
+class URI {
 
   static void Main(string[] args) {
     //Input start
