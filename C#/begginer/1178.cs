@@ -1,6 +1,6 @@
 using System;
 
-class Program {
+class URI {
 
   static void Main(string[] args) {
     decimal[] n = new decimal[100];
